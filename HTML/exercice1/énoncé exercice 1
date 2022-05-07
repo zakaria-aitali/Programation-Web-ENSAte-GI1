@@ -1,0 +1,10 @@
+Créez une page Web qui contient 10 paragraphes, précédés chacun par
+un titres de niveau h2.
+Les paragraphes vont traités le TOP 10 des meilleurs films que vous
+avez vu , et les
+titres de niveau h2 seront dans ce cas là les titres des films.
+Chaque paragraphe présentera le résumé et le casting du film.
+La page doit contenir un titre principale (centré) de niveau h1, par rapport
+à la thématique abordée dans les paragraphes.
+Ajoutez finalement un menu au début de la page Web, qui va permettre
+de se déplacer directement vers chacun des titres des paragraphes.
